@@ -19,3 +19,6 @@ document.getElementById("demo").innerHTML = text;
 
 </body>
 </html>
+
+
+nih harusnya loop ada 
