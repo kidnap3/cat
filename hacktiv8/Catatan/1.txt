@@ -1,0 +1,16 @@
+
+
+====== // Catatan \\ ======
+
+git
+
+git clone
+git checkout -b "Fajar"
+git add .
+git status
+
+git add namafile <nambahin file dalam stage
+git commit <yg ada di stage
+
+//upload file ke github
+git push origin Fajar
